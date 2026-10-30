@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2026-10-30 02:55:27 +0330)
+# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2026-10-30 06:12:54 +0330)
 
 این فایل به صورت خودکار ایجاد شده است.
 
@@ -10,8 +10,8 @@
 
 | پروتکل | تعداد کل | لینک |
 |---|---|---|
-| ShadowSocks | 4803 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocks.txt) |
-| Vless | 4803 | [`Vless.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Vless.txt) |
+| ShadowSocks | 4792 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocks.txt) |
+| Vless | 4792 | [`Vless.txt`](https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Vless.txt) |
 
 ## 🌍 فایل‌های کشورها (حاوی کانفیگ)
 
